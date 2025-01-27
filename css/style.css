@@ -1,0 +1,99 @@
+@font-face {
+    font-family: pixela-extreme;
+    src: url('../fonts/pixela-extreme.otf') format('opentype');
+} 
+
+body {
+    font-family: pixela-extreme;
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.content {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+.text {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: left; 
+}
+
+.text li {
+    list-style-type: "*";
+    list-style-position: inside;
+    text-align: left; 
+}
+
+.index {
+    border: 5px #fff solid;
+    padding: 20px;
+}
+
+.index-text {
+    margin: 5px;
+}
+
+.index-text li {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    list-style-position: inside;
+    text-align: left; 
+    list-style-type: "*";
+    display: inline-block;
+    padding: 20px;
+}
+
+.heading-color {
+    color: yellow;
+    margin: 10px 5px;
+}
+
+.deltarune-redirect {
+    border: 5px #fff solid;
+    padding: 20px;
+}
+
+main {
+    border: 5px #fff solid;
+    padding: 20px;
+}
+
+.first-follower {
+    position: relative;
+    text-align: left;
+}
+
+footer li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+
+.back-to-top {
+    color: yellow;
+    text-decoration: underline
+}
