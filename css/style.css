@@ -97,3 +97,17 @@ footer li {
     color: yellow;
     text-decoration: underline
 }
+
+.container {
+    padding: 20px;
+    border: 5px #fff solid;
+    margin: 2rem;
+}
+
+.front-container li {
+    padding: 20px;
+    display: inline;
+    list-style-position: inside;
+    display: inline-block;
+    text-align: center; 
+}
